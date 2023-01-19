@@ -1,0 +1,1 @@
+[{"id":1,"firstName":"Test","lastName":"Testov","specialty":{"id":3,"name":"SoftWare","status":"ACTIVE"},"skills":[{"id":2,"name":"Cooking","status":"ACTIVE"}],"status":"ACTIVE"}]
